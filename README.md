@@ -1,0 +1,2 @@
+# Static
+ Static For paperclipVideo
